@@ -1,1 +1,2 @@
 c compiler allows to acces out of bound elemtents of array unlike python and java
+leet code-15 19 26 34 35
