@@ -1,0 +1,1 @@
+c compiler allows to acces out of bound elemtents of array unlike python and java
